@@ -1,0 +1,4 @@
+org\senati\webapp\ejb\controllers\EjemploServlet.class
+org\senati\webapp\ejb\models\Producto.class
+org\senati\webapp\ejb\service\ServiceEjbLocal.class
+org\senati\webapp\ejb\service\ServiceEjb.class
